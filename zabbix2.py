@@ -75,10 +75,10 @@ def if_group():
 
 
 try:
-	if_group()
+#	if_group()
 	idid = if_group()
 except:
-	if_group()
+#	if_group()
 	idid = create_group()
        
 print(idid)
